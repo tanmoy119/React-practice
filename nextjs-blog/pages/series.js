@@ -1,10 +1,11 @@
 import Navbar from "../components/Navbar";
+import Grid from '../components/Grid';
 
 const series = () => {
   return (
     <>
       <Navbar />
-      <h1>series</h1>
+      <Grid/>
     </>
   );
 };
